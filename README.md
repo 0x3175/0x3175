@@ -3,12 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ It's not what you say out of your mouth  \
-| that determines your life, it's what you |
-| whisper to yourself that has the most    |
-\ power!                                   /
- ------------------------------------------
+ ____________________________________________
+/ I am always doing that which I can not do, \
+\ in order that I may learn how to do it.    /
+ --------------------------------------------
     \
      \
       (\_/)
