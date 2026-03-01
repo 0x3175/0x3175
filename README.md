@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ________________________________________
-/ Life is a succession of lessons, which \
-\ must be lived to be understood.        /
- ----------------------------------------
+ __________________________________________
+/ Always do what is right. It will gratify \
+\ half of mankind and astound the other.   /
+ ------------------------------------------
     \
      \
       (\_/)
