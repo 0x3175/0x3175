@@ -3,10 +3,12 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Always do what is right. It will gratify \
-\ half of mankind and astound the other.   /
- ------------------------------------------
+ ____________________________________________
+/ There are no constraints on the human      \
+| mind, no walls around the human spirit, no |
+| barriers to our progress except those we   |
+\ ourselves erect.                           /
+ --------------------------------------------
     \
      \
       (\_/)
