@@ -3,12 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ There are no constraints on the human      \
-| mind, no walls around the human spirit, no |
-| barriers to our progress except those we   |
-\ ourselves erect.                           /
- --------------------------------------------
+ ___________________________________________
+/ As a matter of fact is an expression that \
+\ precedes many an expression that isn't.   /
+ -------------------------------------------
     \
      \
       (\_/)
