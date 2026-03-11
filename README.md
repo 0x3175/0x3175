@@ -3,12 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ Always look on the bright side of things. \
-| If you can't comprehend this, polish that |
-| which has become dull until it begins to  |
-\ shine.                                    /
- -------------------------------------------
+ ____________________________________________
+/ It's not whether you get knocked down, its \
+\ whether you get back up.                   /
+ --------------------------------------------
     \
      \
       (\_/)
