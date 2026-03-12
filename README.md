@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ It's not whether you get knocked down, its \
-\ whether you get back up.                   /
- --------------------------------------------
+ _________________________________________
+/ The beautiful journey of today can only \
+| begin when we learn to let go of        |
+\ yesterday.                              /
+ -----------------------------------------
     \
      \
       (\_/)
