@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Determine never to be idle. No person will \
-| have occasion to complain of the want of   |
-\ time who never loses any.                  /
- --------------------------------------------
+ __________________________________________
+/ Awakening is possible only for those who \
+\ seek it and want it.                     /
+ ------------------------------------------
     \
      \
       (\_/)
