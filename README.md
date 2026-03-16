@@ -3,11 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ If the happiness and prosperity of other  \
-| people depend on you, you have nothing to |
-\ fear anymore.                             /
- -------------------------------------------
+ ____________________________________________
+/ Work as though you would live forever, and \
+| live as though you would die today. Go     |
+\ another mile.                              /
+ --------------------------------------------
     \
      \
       (\_/)
