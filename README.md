@@ -3,10 +3,12 @@
 <!-- RABBITSAY START -->
 
 ```
- _______________________________________
-/ You may think I'm small, but I have a \
-\ universe inside my mind.              /
- ---------------------------------------
+ ____________________________________________
+/ Winners are not afraid of losing. But      \
+| losers are. Failure is part of the process |
+| of success. People who avoid failure also  |
+\ avoid success.                             /
+ --------------------------------------------
     \
      \
       (\_/)
