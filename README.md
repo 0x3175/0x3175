@@ -4,10 +4,10 @@
 
 ```
  ____________________________________________
-/ Winners are not afraid of losing. But      \
-| losers are. Failure is part of the process |
-| of success. People who avoid failure also  |
-\ avoid success.                             /
+/ Power is not what we do but what we do not \
+| - hasty and unwise actions that we repeat  |
+| every day and which ultimately bring us    |
+\ into trouble.                              /
  --------------------------------------------
     \
      \
