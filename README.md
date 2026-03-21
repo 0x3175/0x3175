@@ -4,7 +4,8 @@
 
 ```
  ___________________________________________
-< No man is happy unless he believes he is. >
+/ Pleasure can be supported by an illusion; \
+\ but happiness rests upon truth.           /
  -------------------------------------------
     \
      \
