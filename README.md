@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ Pleasure can be supported by an illusion; \
-\ but happiness rests upon truth.           /
- -------------------------------------------
+ __________________________________________
+/ Many people will walk in and out of your \
+| life, but only true friends will leave   |
+\ footprints in your heart.                /
+ ------------------------------------------
     \
      \
       (\_/)
