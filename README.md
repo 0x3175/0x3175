@@ -4,8 +4,9 @@
 
 ```
  _________________________________________
-/ There is no path to Peace. Peace is the \
-\ path.                                   /
+/ The truth... It is a beautiful and      \
+| terrible thing, and should therefore be |
+\ treated with great caution.             /
  -----------------------------------------
     \
      \
