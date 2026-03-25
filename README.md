@@ -3,11 +3,12 @@
 <!-- RABBITSAY START -->
 
 ```
- _________________________________________
-/ The truth... It is a beautiful and      \
-| terrible thing, and should therefore be |
-\ treated with great caution.             /
- -----------------------------------------
+ ____________________________________________
+/ People with clear, written goals,          \
+| accomplish far more in a shorter period of |
+| time than people without them could ever   |
+\ imagine.                                   /
+ --------------------------------------------
     \
      \
       (\_/)
