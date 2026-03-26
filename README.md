@@ -3,12 +3,9 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ People with clear, written goals,          \
-| accomplish far more in a shorter period of |
-| time than people without them could ever   |
-\ imagine.                                   /
- --------------------------------------------
+ __________________________________
+< Rest in reason; move in passion. >
+ ----------------------------------
     \
      \
       (\_/)
