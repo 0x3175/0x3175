@@ -3,9 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________
-< Rest in reason; move in passion. >
- ----------------------------------
+ ____________________________________________
+/ Never argue with stupid people, they will  \
+| drag you down to their level and then beat |
+\ you with experience.                       /
+ --------------------------------------------
     \
      \
       (\_/)
