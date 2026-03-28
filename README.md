@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Never argue with stupid people, they will  \
-| drag you down to their level and then beat |
-\ you with experience.                       /
- --------------------------------------------
+ __________________________________________
+/ As a man thinketh in his heart, so shall \
+\ he be.                                   /
+ ------------------------------------------
     \
      \
       (\_/)
