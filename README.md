@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ As a man thinketh in his heart, so shall \
-\ he be.                                   /
- ------------------------------------------
+ ___________________________________________
+/ Just throw away all thoughts of imaginary \
+| things, and stand firm in that which you  |
+\ are.                                      /
+ -------------------------------------------
     \
      \
       (\_/)
