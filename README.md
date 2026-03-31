@@ -4,8 +4,7 @@
 
 ```
  _____________________________________
-/ The fewer the words, the better the \
-\ prayer.                             /
+< To be prepared is half the victory. >
  -------------------------------------
     \
      \
