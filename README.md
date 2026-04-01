@@ -3,9 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- _____________________________________
-< To be prepared is half the victory. >
- -------------------------------------
+ ___________________________________________
+/ Persistence is very important. You should \
+| not give up unless you are forced to give |
+\ up.                                       /
+ -------------------------------------------
     \
      \
       (\_/)
