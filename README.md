@@ -4,9 +4,9 @@
 
 ```
  ___________________________________________
-/ Persistence is very important. You should \
-| not give up unless you are forced to give |
-\ up.                                       /
+/ The present moment is filled with joy and \
+| happiness. If you are attentive, you will |
+\ see it.                                   /
  -------------------------------------------
     \
      \
