@@ -4,9 +4,10 @@
 
 ```
  ___________________________________________
-/ The present moment is filled with joy and \
-| happiness. If you are attentive, you will |
-\ see it.                                   /
+/ Whatever happened, happened for the good. \
+| Whatever is happening, is happening for   |
+| the good. Whatever will happen, will also |
+\ happen for the good.                      /
  -------------------------------------------
     \
      \
