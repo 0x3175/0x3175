@@ -4,10 +4,8 @@
 
 ```
  ___________________________________________
-/ Whatever happened, happened for the good. \
-| Whatever is happening, is happening for   |
-| the good. Whatever will happen, will also |
-\ happen for the good.                      /
+/ Heroes don't need to talk about what they \
+\ did.                                      /
  -------------------------------------------
     \
      \
