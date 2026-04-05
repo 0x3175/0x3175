@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ Heroes don't need to talk about what they \
-\ did.                                      /
- -------------------------------------------
+ ____________________________________________
+/ Only those who will risk going too far can \
+\ possibly find out how far one can go.      /
+ --------------------------------------------
     \
      \
       (\_/)
