@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Only those who will risk going too far can \
-\ possibly find out how far one can go.      /
- --------------------------------------------
+ __________________________________________
+/ If you want to be happy, do not dwell in \
+| the past, do not worry about the future, |
+\ focus on living fully in the present.    /
+ ------------------------------------------
     \
      \
       (\_/)
