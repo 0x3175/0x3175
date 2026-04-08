@@ -3,11 +3,9 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Continuous effort - not strength or        \
-| intelligence - is the key to unlocking our |
-\ potential.                                 /
- --------------------------------------------
+ ________________________________
+< Plants grow weak without wind. >
+ --------------------------------
     \
      \
       (\_/)
