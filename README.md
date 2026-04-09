@@ -3,9 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ________________________________
-< Plants grow weak without wind. >
- --------------------------------
+ _______________________________________
+/ At first dreams seem impossible, then \
+\ improbable, then inevitable.          /
+ ---------------------------------------
     \
      \
       (\_/)
