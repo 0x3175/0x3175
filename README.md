@@ -3,11 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ In a world that is constantly changing, it \
-| is to our advantage to learn how to adapt  |
-\ and enjoy something better.                /
- --------------------------------------------
+ ___________________________________________
+/ Life is to be fortified by many           \
+| friendships. To love, and to be loved, is |
+\ the greatest happiness of existence.      /
+ -------------------------------------------
     \
      \
       (\_/)
