@@ -3,11 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ Life is to be fortified by many           \
-| friendships. To love, and to be loved, is |
-\ the greatest happiness of existence.      /
- -------------------------------------------
+ ____________________________________________
+/ Do you want to know who you are? Don't     \
+| ask. Act! Action will delineate and define |
+\ you.                                       /
+ --------------------------------------------
     \
      \
       (\_/)
