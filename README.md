@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Do you want to know who you are? Don't     \
-| ask. Act! Action will delineate and define |
-\ you.                                       /
- --------------------------------------------
+ _______________________________________
+/ Love is not about possession. Love is \
+\ about appreciation.                   /
+ ---------------------------------------
     \
      \
       (\_/)
