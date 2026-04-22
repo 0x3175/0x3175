@@ -3,9 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-< It is ignorance that causes most mistakes. >
- --------------------------------------------
+ ___________________________________________
+/ To improve is to change, so to be perfect \
+\ is to change often.                       /
+ -------------------------------------------
     \
      \
       (\_/)
