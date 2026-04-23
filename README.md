@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ To improve is to change, so to be perfect \
-\ is to change often.                       /
- -------------------------------------------
+ __________________________________________
+/ You will succeed because most people are \
+\ lazy.                                    /
+ ------------------------------------------
     \
      \
       (\_/)
