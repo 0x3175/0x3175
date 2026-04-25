@@ -3,9 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ________________________________________
-< We think too much and feel too little. >
- ----------------------------------------
+ __________________________________________
+/ Don't gain the world and lose your soul. \
+\ Wisdom is better than silver and gold.   /
+ ------------------------------------------
     \
      \
       (\_/)
