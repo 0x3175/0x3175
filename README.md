@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Don't gain the world and lose your soul. \
-\ Wisdom is better than silver and gold.   /
- ------------------------------------------
+ ___________________________________________
+/ Do not use life to give life to death. Do \
+\ not use death to bring death to life.     /
+ -------------------------------------------
     \
      \
       (\_/)
