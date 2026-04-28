@@ -4,8 +4,9 @@
 
 ```
  __________________________________________
-/ The smallest of actions is always better \
-\ than the noblest of intentions.          /
+/ Concentrate all your thoughts upon the   \
+| work at hand. The sun's rays do not burn |
+\ until brought to focus.                  /
  ------------------------------------------
     \
      \
