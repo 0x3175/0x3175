@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Concentrate all your thoughts upon the   \
-| work at hand. The sun's rays do not burn |
-\ until brought to focus.                  /
- ------------------------------------------
+ ____________________________________________
+/ He who cannot be a good follower cannot be \
+\ a good leader.                             /
+ --------------------------------------------
     \
      \
       (\_/)
