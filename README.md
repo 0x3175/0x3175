@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ He who cannot be a good follower cannot be \
-\ a good leader.                             /
- --------------------------------------------
+ __________________________________________
+/ Friendship takes time and energy if it's \
+\ going to work.                           /
+ ------------------------------------------
     \
      \
       (\_/)
