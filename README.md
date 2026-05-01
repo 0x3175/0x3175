@@ -4,8 +4,8 @@
 
 ```
  __________________________________________
-/ Friendship takes time and energy if it's \
-\ going to work.                           /
+/ Knowledge is a treasure, but practice is \
+\ the key to it.                           /
  ------------------------------------------
     \
      \
