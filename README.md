@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Knowledge is a treasure, but practice is \
-\ the key to it.                           /
- ------------------------------------------
+ ____________________________________________
+/ To the world you may be one person; but to \
+\ one person you may be the world.           /
+ --------------------------------------------
     \
      \
       (\_/)
