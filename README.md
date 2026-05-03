@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ To the world you may be one person; but to \
-\ one person you may be the world.           /
- --------------------------------------------
+ _________________________________________
+/ Don't let the noise of others' opinions \
+\ drown out your own inner voice.         /
+ -----------------------------------------
     \
      \
       (\_/)
