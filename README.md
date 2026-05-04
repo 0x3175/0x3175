@@ -4,8 +4,8 @@
 
 ```
  _________________________________________
-/ Don't let the noise of others' opinions \
-\ drown out your own inner voice.         /
+/ Being entirely honest with oneself is a \
+\ good exercise.                          /
  -----------------------------------------
     \
      \
