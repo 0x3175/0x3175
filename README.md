@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ________________________________________
-/ To be in harmony with the wholeness of \
-| things is not to have anxiety over     |
-\ imperfections.                         /
- ----------------------------------------
+ __________________________________________
+/ Our view of the world is truly shaped by \
+\ what we decide to hear.                  /
+ ------------------------------------------
     \
      \
       (\_/)
