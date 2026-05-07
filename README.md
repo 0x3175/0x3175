@@ -4,8 +4,7 @@
 
 ```
  __________________________________________
-/ Our view of the world is truly shaped by \
-\ what we decide to hear.                  /
+< We are all here for some special reason. >
  ------------------------------------------
     \
      \
