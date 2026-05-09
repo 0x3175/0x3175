@@ -4,8 +4,8 @@
 
 ```
  ____________________________________________
-/ If anything is worth doing, do it with all \
-\ your heart.                                /
+/ The world is open for play, everything and \
+\ everybody is mockable in a wonderful way.  /
  --------------------------------------------
     \
      \
