@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ The world is open for play, everything and \
-\ everybody is mockable in a wonderful way.  /
- --------------------------------------------
+ __________________________________________
+/ Successful people appreciate where they  \
+| have come from, but they don't let their |
+\ past set the tone for their future.      /
+ ------------------------------------------
     \
      \
       (\_/)
