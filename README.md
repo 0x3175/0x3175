@@ -4,9 +4,9 @@
 
 ```
  __________________________________________
-/ Successful people appreciate where they  \
-| have come from, but they don't let their |
-\ past set the tone for their future.      /
+/ You don't have to move mountains. You'll \
+| change the world simply by being a warm, |
+\ kind-hearted human being.                /
  ------------------------------------------
     \
      \
