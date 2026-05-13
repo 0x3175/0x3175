@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ You don't have to move mountains. You'll \
-| change the world simply by being a warm, |
-\ kind-hearted human being.                /
- ------------------------------------------
+ ____________________________________
+/ The purpose of life is the life of \
+\ purpose.                           /
+ ------------------------------------
     \
      \
       (\_/)
