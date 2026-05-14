@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________
-/ The purpose of life is the life of \
-\ purpose.                           /
- ------------------------------------
+ ___________________________________________
+/ Progress comes to those who train and     \
+| train; reliance on secret techniques will |
+\ get you nowhere.                          /
+ -------------------------------------------
     \
      \
       (\_/)
