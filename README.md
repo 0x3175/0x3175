@@ -4,9 +4,8 @@
 
 ```
  ___________________________________________
-/ Progress comes to those who train and     \
-| train; reliance on secret techniques will |
-\ get you nowhere.                          /
+/ The person who never made a mistake never \
+\ tried anything new.                       /
  -------------------------------------------
     \
      \
