@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ The person who never made a mistake never \
-\ tried anything new.                       /
- -------------------------------------------
+ _________________________________________
+/ The busy man is never wise and the wise \
+\ man is never busy.                      /
+ -----------------------------------------
     \
      \
       (\_/)
