@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- _________________________________________
-/ The busy man is never wise and the wise \
-\ man is never busy.                      /
- -----------------------------------------
+ ___________________________________________
+/ We never know how high we are till we are \
+| called to rise. Then if we are true to    |
+\ form our statures touch the skies.        /
+ -------------------------------------------
     \
      \
       (\_/)
