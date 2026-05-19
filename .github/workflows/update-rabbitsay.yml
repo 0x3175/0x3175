@@ -2,7 +2,7 @@ name: Update Rabbitsay Quote
 
 on:
   schedule:
-    - cron: '0 23 * * 0' # Every Sunday at 11pm UTC/ 7am UTC+8
+    - cron: '0 23 * * 0' # Every Sunday at 11pm UTC/ Monday at 7am UTC+8
   workflow_dispatch:
 
 permissions:
@@ -49,7 +49,6 @@ jobs:
               "The most disastrous thing that you can ever learn is your first programming language.",
               "Before software can be reusable it first has to be usable.",
               "The best error message is the one that never shows up.",
-              "Computers are useless. They can only give you answers.",
               "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
               "The purpose of software engineering is to control complexity, not to create it.",
               "Premature optimization is the root of all evil.",
