@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ We are willing to believe anything other \
-\ than the truth.                          /
- ------------------------------------------
+ __________________________________
+/ In the middle of difficulty lies \
+\ opportunity.                     /
+ ----------------------------------
     \
      \
       (\_/)
