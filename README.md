@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________
-/ In the middle of difficulty lies \
-\ opportunity.                     /
- ----------------------------------
+ ___________________________________________
+/ What's the point in being smart enough to \
+| read, if everything you read makes you    |
+\ dumb?                                     /
+ -------------------------------------------
     \
      \
       (\_/)
