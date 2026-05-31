@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ What's the point in being smart enough to \
-| read, if everything you read makes you    |
-\ dumb?                                     /
- -------------------------------------------
+ ____________________________________________
+/ Everyone wants to go to Heaven, but no one \
+\ wants to die.                              /
+ --------------------------------------------
     \
      \
       (\_/)
