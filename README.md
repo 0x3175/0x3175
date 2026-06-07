@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Everyone wants to go to Heaven, but no one \
-\ wants to die.                              /
- --------------------------------------------
+ ________________________________________
+/ I can live without money, but I cannot \
+\ live without love.                     /
+ ----------------------------------------
     \
      \
       (\_/)
