@@ -4,8 +4,8 @@
 
 ```
  ________________________________________
-/ I can live without money, but I cannot \
-\ live without love.                     /
+/ It's not how much we give but how much \
+\ love we put into giving.               /
  ----------------------------------------
     \
      \
