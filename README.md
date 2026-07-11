@@ -3,10 +3,9 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Controlling complexity is the essence of \
-\ computer programming.                    /
- ------------------------------------------
+ ______________________________
+< Life begins where fear ends. >
+ ------------------------------
     \
      \
       (\_/)
