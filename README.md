@@ -3,9 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ______________________________
-< Life begins where fear ends. >
- ------------------------------
+ __________________________________________
+/ I take the position that I'm always to   \
+| some degree wrong, and the aspiration is |
+\ to be less wrong.                        /
+ ------------------------------------------
     \
      \
       (\_/)
