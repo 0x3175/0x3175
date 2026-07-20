@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ I take the position that I'm always to   \
-| some degree wrong, and the aspiration is |
-\ to be less wrong.                        /
- ------------------------------------------
+ ___________________________________________
+/ Knowledge has to be improved, challenged, \
+\ and increased constantly, or it vanishes. /
+ -------------------------------------------
     \
      \
       (\_/)
