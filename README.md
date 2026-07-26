@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ Knowledge has to be improved, challenged, \
-\ and increased constantly, or it vanishes. /
- -------------------------------------------
+ __________________________________________
+/ If you think you can do a thing or think \
+\ you can't do a thing, you're right.      /
+ ------------------------------------------
     \
      \
       (\_/)
