@@ -3,10 +3,9 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ If you think you can do a thing or think \
-\ you can't do a thing, you're right.      /
- ------------------------------------------
+ _____________________________________
+< Happiness is only real when shared. >
+ -------------------------------------
     \
      \
       (\_/)
