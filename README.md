@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ Abundance of knowledge does not teach men \
-\ to be wise.                               /
- -------------------------------------------
+ _________________________________________
+/ Even the smallest person can change the \
+\ course of the future.                   /
+ -----------------------------------------
     \
      \
       (\_/)
