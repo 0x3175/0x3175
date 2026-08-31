@@ -3,10 +3,12 @@
 <!-- RABBITSAY START -->
 
 ```
- _________________________________________
-/ Even the smallest person can change the \
-\ course of the future.                   /
- -----------------------------------------
+ ___________________________________________
+/ A man is not called wise because he talks \
+| and talks again; but if he is peaceful,   |
+| loving and fearless then he is in truth   |
+\ called wise.                              /
+ -------------------------------------------
     \
      \
       (\_/)
