@@ -3,12 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ A man is not called wise because he talks \
-| and talks again; but if he is peaceful,   |
-| loving and fearless then he is in truth   |
-\ called wise.                              /
- -------------------------------------------
+ __________________________________________
+/ Happiness is the spiritual experience of \
+| living every minute with love, grace and |
+\ gratitude.                               /
+ ------------------------------------------
     \
      \
       (\_/)
