@@ -3,11 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- __________________________________________
-/ Happiness is the spiritual experience of \
-| living every minute with love, grace and |
-\ gratitude.                               /
- ------------------------------------------
+ ____________________________________________
+/ Great things are not accomplished by those \
+| who yield to trends and fads and popular   |
+\ opinion.                                   /
+ --------------------------------------------
     \
      \
       (\_/)
