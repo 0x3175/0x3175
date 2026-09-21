@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ Great things are not accomplished by those \
-| who yield to trends and fads and popular   |
-\ opinion.                                   /
- --------------------------------------------
+ ___________________________________________
+/ Opportunities don't often come along. So, \
+\ when they do, you have to grab them.      /
+ -------------------------------------------
     \
      \
       (\_/)
