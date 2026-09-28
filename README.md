@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- ___________________________________________
-/ Opportunities don't often come along. So, \
-\ when they do, you have to grab them.      /
- -------------------------------------------
+ ____________________________________________
+/ If you want to turn a vision into reality, \
+| you have to give 100% and never stop       |
+\ believing in your dream.                   /
+ --------------------------------------------
     \
      \
       (\_/)
