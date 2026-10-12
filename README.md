@@ -3,10 +3,11 @@
 <!-- RABBITSAY START -->
 
 ```
- _______________________________________
-/ We don't stop going to school when we \
-\ graduate.                             /
- ---------------------------------------
+ ____________________________________________
+/ The divine is not something high above us. \
+| It is in heaven, it is in earth, it is     |
+\ inside us.                                 /
+ --------------------------------------------
     \
      \
       (\_/)
