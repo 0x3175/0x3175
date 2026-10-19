@@ -3,11 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-/ The divine is not something high above us. \
-| It is in heaven, it is in earth, it is     |
-\ inside us.                                 /
- --------------------------------------------
+ _______________________________________
+/ Wrong turns are as important as right \
+\ turns. More important, sometimes.     /
+ ---------------------------------------
     \
      \
       (\_/)
