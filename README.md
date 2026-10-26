@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- _______________________________________
-/ Wrong turns are as important as right \
-\ turns. More important, sometimes.     /
- ---------------------------------------
+ __________________________________________
+/ The one who boasts does so only out of a \
+\ feeling of inferiority.                  /
+ ------------------------------------------
     \
      \
       (\_/)
