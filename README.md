@@ -3,9 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ____________________________________________
-< You're on earth. There's no cure for that. >
- --------------------------------------------
+ ________________________________________
+/ Keep your face to the sunshine and you \
+\ cannot see the shadows.                /
+ ----------------------------------------
     \
      \
       (\_/)
