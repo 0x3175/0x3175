@@ -3,10 +3,10 @@
 <!-- RABBITSAY START -->
 
 ```
- ________________________________________
-/ Keep your face to the sunshine and you \
-\ cannot see the shadows.                /
- ----------------------------------------
+ _________________________________________
+/ Only by acceptance of the past, can you \
+\ alter it.                               /
+ -----------------------------------------
     \
      \
       (\_/)
